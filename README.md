@@ -1,4 +1,4 @@
-# Hello there! I'm not_spagheti
+# Hello there! I'm Max Medovarský
 ## About me
 - I'm from Slovakia and I'm currently studying at GVARZA
 - I aspire to be a full-stack dev one day:D
